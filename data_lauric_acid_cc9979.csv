@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #9979
+Sample Name,Lauric Acid
+Formula,C12H24O2
+Molecular Weight (g/mol),200.311
+Sample Weight (g),0.9128
+Water Temp (deg C),24.2
+Room Temp (deg C),23.02
+Water Volume (L),2
+Wire Before (g),0.021
+Wire After (g),0.014
+=====,=====
+Time (s),Temperature (C)
+0,24.2
+60,24.2
+120,24.2
+180,24.2
+240,24.2
+300,24.2
+315,24.21
+330,24.48
+345,24.88
+360,25.3
+375,25.68
+390,26.01
+405,26.27
+420,26.48
+435,26.65
+450,26.78
+465,26.88
+480,26.96
+540,27.12
+600,27.17
+660,27.16
+720,27.16
+780,27.15
+840,27.15
+900,27.14
+960,27.14
+1020,27.13
+1080,27.12
